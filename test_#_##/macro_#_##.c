@@ -28,3 +28,5 @@ int main(void)
     return 0;
 }
 
+// build:
+// gcc tostr_connect.c -o tostr_connect

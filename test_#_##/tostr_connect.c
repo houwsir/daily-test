@@ -13,4 +13,4 @@ int main(void)
 }
 
 // build:
-// gcc tostr_connect.c -o tostr_connect
+// gcc macro_#_##.c -o macro_#_##
