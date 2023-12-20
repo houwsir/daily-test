@@ -24,7 +24,7 @@ int main(void)
     _anonymous_23.a = 1;
     printf("struct anonymous:%d\n", _anonymous_23.a);
 
-    // foo(ANONYMOUS(int), ANONYMOUS(T_test)); // error
+    // foo(ANONYMOUS(int), ANONYMOUS(T_test)); // build error
 
     return 0;
 }
